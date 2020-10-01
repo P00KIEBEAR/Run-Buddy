@@ -9,7 +9,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://p00kiebear.github.io/Run-Buddy/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [Pat Paggi]
+Made with ❤️ by [your name]
