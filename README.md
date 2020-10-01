@@ -8,8 +8,8 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
-## Website
-https://lernantino.github.io/run-buddy/
+## Websiteh
+ https://p00kiebear.github.io/Run-Buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by [Pat Paggi]
