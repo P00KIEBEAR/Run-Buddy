@@ -212,7 +212,7 @@ float: left;
   display: inline-block;
   vertical-align: top;
   text-align: left;
-  margin: 30px 0 0 60px;
+  margin: 30px 0 0 50px;
   color: white;
 }
 .address-info h3 {
@@ -233,10 +233,9 @@ float: left;
 
 /* REACH OUT STYLES END */
 /* terms*/
-/* homepage hero *
-}
+/* homepage hero */
 
-/* secondary page hero */
+
 .hero-secondary {
   margin: 20px;
   background-color: black;
@@ -249,3 +248,10 @@ float: left;
   background-color: black;
   color: red;
 }
+.hero {
+  margin: 20px;
+  background-color: white;
+  font-size: 20px;
+  color: blue;
+}
+
