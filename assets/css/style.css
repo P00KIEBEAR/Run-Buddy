@@ -280,7 +280,6 @@ background: #fce138;
 .flex-row {
   display: flex;
 }
-<<<<<<< HEAD
 
 .address-info div {
   width: 410px;
@@ -288,7 +287,7 @@ background: #fce138;
   vertical-align: top;
   text-align: left;
   margin: 30px 0 0 50px;
-=======
+}
 .contact-info iframe {
     flex: 1 100%;
 }
@@ -302,7 +301,6 @@ flex-wrap: wrap;
   margin: 15px;
 }
 .contact-info div {
->>>>>>> develop
   color: white;
 }
 .contact-info h3 {
@@ -338,43 +336,34 @@ flex-wrap: wrap;
 .address-info a {
   color: #fce138;
 }
-<<<<<<< HEAD
-footer {
-=======
+
  footer {
->>>>>>> develop
+
     background: #fce138;
     width: 100%;
     padding: 40px 35px;
   }
   footer h2 {
-<<<<<<< HEAD
+
     display: inline;
-=======
+
     display: flex;
->>>>>>> develop
+
     color: #024e76;
     font-size: 30px;
     margin: 0;
   }
   footer div {
-<<<<<<< HEAD
+
     float: right;
-=======
    justify-content: space-between;
    flex-wrap: wrap;
->>>>>>> develop
     line-height: 1.5;
     text-align: right;
   }
   footer a {
     color: #024e76;
-<<<<<<< HEAD
   }  
-=======
-  }
-
->>>>>>> develop
 /* REACH OUT STYLES END */
 /* terms*/
 /* homepage hero */
@@ -392,7 +381,6 @@ footer {
   background-color: black;
   color: red;
 }
-<<<<<<< HEAD
 .hero {
   margin: 20px;
   background-color: white;
@@ -400,7 +388,7 @@ footer {
   color: blue;
 }
 
-=======
+
 /* moblie */
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
